@@ -5,3 +5,5 @@ Some games developed by Python.
 ```shell
 cd Sudoku
 ```
+
+## game2
