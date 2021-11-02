@@ -6,4 +6,4 @@ Some games developed by Python.
 cd Sudoku
 ```
 
-## game2
+## game3
